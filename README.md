@@ -1,2 +1,3 @@
-# mcs-interface
-Project that defines an interface to the MCS for external interfaces (GUI, scripts etc).
+# Moved
+
+This project was moved to https://github.com/oswald2/AURIS/tree/master/mcs-interface
